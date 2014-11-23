@@ -1,4 +1,4 @@
-{
+slogan{
     "_author": "Proplex, stal, et al.",
     "_language": "Afrikaans",
     "_comment": "Only translate from this file, not the others!",
@@ -12,11 +12,11 @@
     "nv_contribute": "Dra By",
     
     "sect1_slogan": "Beskermde kletsprogram vir ons almal.",
-    "sect1_description": "Met die oog op die opkoms van wydverspreide beheerprogramme van regerings, is Tox 'n gebruikersvriendlike program wat jou toelaat om met vriende en geliefdes te klets sonder dat iemand anders kan inluister.",
+    "sect1_description": "Met die oog op die opkoms van wydverspreide beheerprogramme van regerings, is Tox 'n gebruikersvriendelike program wat jou toelaat om met vriende en geliefdes te klets sonder dat iemand anders kan inluister.",
     "sect1_learnmore": "Leer meer",
     "sect1_download": "Laai af",
-    
-    
+    "sect1_nightly": "Daaglikse 'nightlies' is beskikbaar; neem net kennis dat dit vol goggas kan wees!",
+
     "sect2_abouttox": "Tox Agtergrond",
     
     "sect2_aboutbody": "Tox is gebou met die idee dat jy kan tred hou met vriende en familie, sonder om jou privaatheid op te gee.\n Terwyl ander grootnaam dienste betaling vereis om meer funksies te ontsluit, is Tox gratis met onbeperkte vryheid.\n Jy is vry om Tox te gebruik net soos jy wil.",
@@ -40,7 +40,7 @@
     "sect4_security": "Sekuriteit",
     "sect4_security_blurb": "Tox neem jou privaatheid ernstig op.<br/> Met <span class=\"text bold\"> eerste-klas kodering </ span>, kan jy gerus wees dat die enigste mense wat jou boodskappe lees, is die mense vir wie jy dit stuur.",
     
-    "sect4_easy": "Eenvoedig",
+    "sect4_easy": "Eenvoudig",
     "sect4_easy_blurb": "In teenstelling met ander veilige kitsbootskap oplossings, vereis Tox nie dat jy 'n rekenaar programmeerder moet wees om dit te kan gebruik nie. Tox kom uit-die-boks met 'n <span class=\"text bold\"> eenvoudige </ span> gebruikers koppelvlak wat jou toelaat om te fokus op jou gesprekke.",
     
     "sect4_freedom": "Vryheid",
@@ -55,9 +55,18 @@
     "sect6_freesoftware": "Gratis Sagteware",
     "sect6_developers": "Ons is koel ouens van <span class=\"text normal\"> regoor die wêreld </ span>.",
     
+    "sect6_mailinglist_title": "Bly op hoogte",
+    "sect6_mailinglist": "Sit jou adress op ons poslys, om nuus te ontvang van Tox se vordering.",
+    "sect6_email": "e-pos adres",
+
     "sect6_jointheteam": "Sluit aan by die Span",
     "sect6_joinongithub": "Help TOX bou op <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Hulp nodig?",
     "sect6_githubtoirc": "Begin jou eie projek op <span class=\"text normal\">GitHub</span>, of praat met ons op <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+
+    "dev_links": "Programmeerders",
+    "dev_blog": "Ontwikkelings blog",
+    "dev_docs": "Dokumentasie",
+
 }
